@@ -1,4 +1,4 @@
-# Apollo University Portal (Attendance System)
+# Attendance System Portal 
 
 A role-based university attendance and student services portal built with React, TypeScript, Vite, and Tailwind CSS.
 
